@@ -6,8 +6,8 @@ class BadDesignDiscount:
         if customer_type == "VIP":
             return 0.2
         return 0.1
-
-
+#-----------------------------------------------------------
+#Good Design
 class DiscountStrategy(ABC):
     @abstractmethod
     def get_discount(self): 
