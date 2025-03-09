@@ -1,3 +1,5 @@
+Thanks to @ashishps1 for his amazing repository for LLD preparation. This whole solution is taken from that repo. Do check that out!!
+
 ## Requirements
 1. User can post questions, answer questions, and comment on question and answers.
 2. Users can vote on question and answers 
